@@ -1,0 +1,8 @@
+.venv/
+ollama_data/
+__pycache__/
+*.pyc
+resultados_benchmark.csv
+resultados_benchmark.md
+benchmark-run.log
+*.zip
